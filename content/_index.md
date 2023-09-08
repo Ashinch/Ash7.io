@@ -9,9 +9,8 @@ Tech & Design enthusiast, helping to create a better world for everyone. Working
 
 ### Social
 
-- [contact@ash7.io](mailto:contact@ash7.io)
 - [GitHub](https://github.com/Ashinch)
-- [RSS](/index.xml)
+- [contact@ash7.io](mailto:contact@ash7.io)
 
 ### Credits
 
