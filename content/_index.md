@@ -12,7 +12,7 @@ Tech & Design enthusiast, helping to create a better world for everyone. Working
 - [GitHub](https://github.com/Ashinch)
 - [contact@ash7.io](mailto:contact@ash7.io)
 
-### Credits
+### Roll
 
 - [iyanghong](http://www.iyanghong.cn/)
 - [jzjzzzz](http://jzjzzzz.cn/)
