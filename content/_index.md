@@ -19,6 +19,7 @@ Tech & Design enthusiast, helping to create a better world for everyone. Working
 - [jzjzzzz](http://jzjzzzz.cn/)
 
 <div class="achievement">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png"/>
     <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"/>
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png"/>
     <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png"/>
