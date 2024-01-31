@@ -2,9 +2,9 @@
 title: Programming in Zhuzhou
 tags: 
 - Travel
-date: 2023-07-01
+date: 2024-01-31
 ---
 
-![](https://bucket-ashinch.oss-cn-hangzhou.aliyuncs.com/upic/2D7234F4-5AD4-406A-B041-8FC183C1BEED_1_105_c.jpeg)
+![](https://bucket-ashinch.oss-cn-hangzhou.aliyuncs.com/upic/073F5471-BF7A-41E5-826D-3EE669E3814E_1_201_a.jpeg)
 
 *晚安，株洲 🌙*
