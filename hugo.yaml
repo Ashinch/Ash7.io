@@ -10,6 +10,7 @@ title: Ash's Thinking
 author: Ash
 copyright: Copyright © 2020, Ashinch.
 languageCode: en-US
+timeZone: Asia/Shanghai
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT: true
