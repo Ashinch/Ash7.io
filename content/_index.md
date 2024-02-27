@@ -7,7 +7,7 @@ Tech & Design enthusiast, helping to create a better world for everyone. Working
 - [Read You - An Android RSS reader presented in Material You style](https://github.com/Ashinch/ReadYou)
 - [Interaction Fields - Live Video Programming Interview System Based on WebRTC](https://github.com/Ashinch/interaction-fields)
 
-### Social
+### Socials
 
 - [GitHub](https://github.com/Ashinch)
 - [contact@ash7.io](mailto:contact@ash7.io)
