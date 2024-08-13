@@ -5,11 +5,13 @@ Tech & Design enthusiast, helping to create a better world for everyone. Working
 ### Projects
 
 - [Read You - An Android RSS reader presented in Material You style](https://github.com/Ashinch/ReadYou)
-- [Interaction Fields - Live Video Programming Interview System Based on WebRTC](https://github.com/Ashinch/interaction-fields)
+- [Interaction Fields - Live Programming Interview System Based on WebRTC](https://github.com/Ashinch/interaction-fields)
+- [VCT CN Calendar - A Valorant VCT-CN contest calendar subscription](https://github.com/Ashinch/vct-cn-calendar-subscription)
 
 ### Socials
 
 - [GitHub](https://github.com/Ashinch)
+- [X/Twitter](https://x.com/Ashinch7)
 - [contact@ash7.io](mailto:contact@ash7.io)
 
 ### Roll
