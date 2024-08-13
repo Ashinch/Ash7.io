@@ -18,4 +18,4 @@ If my work can help you, you may consider sponsoring me. If you have any ideas o
 ### My Sponsorships
 
 - [Primary Theme - Comfy, playful but productive theme for Obsidian](https://github.com/primary-theme/obsidian)
-- [Simple Live - A flutter app for watching live](https://github.com/xiaoyaocz/dart_simple_live#simple-live)
+- [Simple Live - A Flutter app for watching live](https://github.com/xiaoyaocz/dart_simple_live#simple-live)
