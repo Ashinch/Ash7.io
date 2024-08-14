@@ -13,7 +13,7 @@ If my work can help you, you may consider sponsoring me. If you have any ideas o
 - <strong><a href="https://ash7.io/images/wechat.jpg" target="_blank">WeChat</a></strong>
 - <strong><a href="https://ash7.io/images/alipay.jpg" target="_blank">Alipay</a></strong>
 
-### My Sponsorships
+### My Sponsoring
 
 - [Primary Theme - Comfy, playful but productive theme for Obsidian](https://github.com/primary-theme/obsidian)
 - [Simple Live - A Flutter app for watching live](https://github.com/xiaoyaocz/dart_simple_live#simple-live)
