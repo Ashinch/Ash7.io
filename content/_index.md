@@ -6,7 +6,7 @@ Highly Opinionated Softwareism, tech & design enthusiast, helping to create a be
 
 - [Read You - An Android RSS reader presented in Material You style](https://github.com/Ashinch/ReadYou)
 - [Interaction Fields - Live Programming Interview System Based on WebRTC](https://github.com/Ashinch/interaction-fields)
-- [VCT CN Calendar - A Valorant VCT-CN contest calendar subscription](https://github.com/Ashinch/vct-cn-calendar-subscription)
+- [VCT CN Calendar - A VALORANT VCT-CN contest calendar subscription](https://github.com/Ashinch/vct-cn-calendar-subscription)
 
 ### Socials
 
