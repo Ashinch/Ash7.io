@@ -20,7 +20,7 @@ Highly Opinionated Softwareism, tech & design enthusiast, helping to create a be
 - [iyanghong](http://www.iyanghong.cn/)
 - [jzjzzzz](http://jzjzzzz.cn/)
 
-<div class="achievement">
+<!-- <div class="achievement">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png"/>
     <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"/>
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png"/>
@@ -28,4 +28,4 @@ Highly Opinionated Softwareism, tech & design enthusiast, helping to create a be
     <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png"/>
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"/>
     <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png"/>
-</div>
+</div> -->
