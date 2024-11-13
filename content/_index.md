@@ -12,6 +12,7 @@ Highly Opinionated Softwareism, tech & design enthusiast, helping to create a be
 
 - [GitHub](https://github.com/Ashinch)
 - [X/Twitter](https://x.com/Ashinch7)
+- [Follow](https://app.follow.is/share/users/Ashinch)
 - [contact@ash7.io](mailto:contact@ash7.io)
 
 ### Roll
